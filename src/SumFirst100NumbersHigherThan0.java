@@ -11,4 +11,5 @@ public class SumFirst100NumbersHigherThan0 {
         System.out.println("The sum of the first 100 numbers higher than 0 is " + sum);
         System.out.println("The second version of the sum of the numbers between 0 and 100 is " + sum2);
     }
+
 }
