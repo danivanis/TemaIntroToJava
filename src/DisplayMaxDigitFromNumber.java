@@ -14,5 +14,6 @@ public class DisplayMaxDigitFromNumber {
         }
 
         System.out.println("The max digit from the number is " + maxDigit);
+
     }
 }
